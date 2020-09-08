@@ -25,6 +25,11 @@ const main = {
       iconName: 'logo-facebook',
       link: 'https://www.facebook.com/nabila.suhaimi.7/'
     },
+     {
+      name: 'Youtube',
+      iconName: 'logo-youtube',
+      link: 'https://www.youtube.com/channel/UCA_00D2-QpqqyQo1cOW_a7w/featured?view_as=subscriber'
+    },
     {
       name: 'Mail',
       iconName: 'mail-outline',
