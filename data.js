@@ -36,10 +36,5 @@ const main = {
       link: `mailto:${'bylasuhaimi@gmail.com'}?Subject=Hello%20again`
     }
   ],
-  links: [
-    { name: '(LEMP stack)', link: '#LEMP' },
-    { name: 'Laravel', link: '#Laravel' },
-    { name: 'Flutter', link: '#Flutter' },
-    { name: 'Ionic', link: '#Ionic' }
-  ]
+  
 };
