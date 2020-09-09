@@ -2,7 +2,7 @@ const main = {
   name: 'Nabila Huda Suhaimi',
   mail: 'bylasuhaimi@gmail.com',
   img: 'https://scontent.fkul16-1.fna.fbcdn.net/v/t1.0-9/82237573_2927478213987328_7049825462150758400_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=vk3f1PJWss8AX9SepCB&_nc_ht=scontent.fkul16-1.fna&oh=cd0647621421471f261daf589dbce993&oe=5F7D885C',
-  role: ['Programmer'],
+  role: ['Head of Intern'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
